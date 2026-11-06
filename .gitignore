@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+config.json
+data/
+*.sqlite3
+*.sqlite3-journal
+*.sqlite3-wal
+*.sqlite3-shm

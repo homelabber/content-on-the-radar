@@ -1,0 +1,2 @@
+# Default Azure CLI authentication uses only the Python standard library.
+# For optional Azure Identity authentication, install requirements-azure.txt.

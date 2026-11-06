@@ -1,0 +1,10 @@
+{
+  "subscription_id": "00000000-0000-0000-0000-000000000000",
+  "resource_group": "YOUR-RESOURCE-GROUP",
+  "workspace": "YOUR-SENTINEL-WORKSPACE",
+  "api_version": "2025-09-01",
+  "authentication": "azure_cli",
+  "database": "data/demo.sqlite3",
+  "publisher_filter": [],
+  "webhook_url_env": "SENTINEL_CONTENT_WEBHOOK_URL"
+}

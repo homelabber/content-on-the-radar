@@ -1,0 +1,14 @@
+{
+  "value": [
+    {
+      "properties": {
+        "contentId": "synthetic-solution-a",
+        "contentKind": "Solution",
+        "displayName": "Example Security Solution",
+        "publisherDisplayName": "Example Publisher",
+        "version": "1.0.0",
+        "installedVersion": "1.0.0"
+      }
+    }
+  ]
+}
